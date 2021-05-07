@@ -1,0 +1,28 @@
+Command line:
+   RobotTest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  18096
+
+Thu Apr 19 19:26:40 2018
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 889.688 Meg
+
+ Total Signals          : 1685
+ Total Nets             : 5483
+ Total Signal Drivers   : 482
+ Total Blocks           : 216
+ Total Primitive Blocks : 180
+ Total Processes        : 482
+ Total Traceable Variables  : 58
+ Total Scalar Nets and Variables : 6427
+
+ Total Simulation Time: 0.5625 sec
+
+ Current Memory Usage: 889.688 Meg
+
+Thu Apr 19 19:26:49 2018
+

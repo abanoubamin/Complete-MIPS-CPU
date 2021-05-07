@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RobotTest.xst" -ofn "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RobotTest.syr" 

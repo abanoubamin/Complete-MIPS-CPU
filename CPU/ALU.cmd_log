@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/Downloads/Documents/3 CS/Architecture/CPU/ALU.xst" -ofn "E:/Downloads/Documents/3 CS/Architecture/CPU/ALU.syr" 

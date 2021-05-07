@@ -1,0 +1,103 @@
+Running: E:\Xilinix\14.5\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RobotTest_isim_beh.exe -prj C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RobotTest_beh.prj work.RobotTest 
+ISim P.58f (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/OneBitFullAdder.vhd" into library work
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/mypackage.vhd" into library work
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/Mux4.vhd" into library work
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/Mux2.vhd" into library work
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/Mux.vhd" into library work
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/GenericReg.vhd" into library work
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/FirstAlu.vhd" into library work
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/FirstAlu.vhd" Line 51: Actual for formal port i1 is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/FirstAlu.vhd" Line 52: Actual for formal port i1 is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/FirstAlu.vhd" Line 54: Actual for formal port i0 is neither a static name nor a globally static expression
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/Decoder.vhd" into library work
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/Alu1Bit.vhd" into library work
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/Alu1Bit.vhd" Line 52: Actual for formal port i1 is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/Alu1Bit.vhd" Line 53: Actual for formal port i1 is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/Alu1Bit.vhd" Line 55: Actual for formal port i0 is neither a static name nor a globally static expression
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" into library work
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 80: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 81: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 82: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 83: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 84: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 85: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 86: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 87: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 88: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 89: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 90: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 91: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 92: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 93: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 94: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 95: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 96: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 97: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 98: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 99: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 100: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 101: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 102: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 103: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 104: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 105: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 106: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 107: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 108: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 109: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 110: Actual for formal port lod is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RegisterFile.vhd" Line 111: Actual for formal port lod is neither a static name nor a globally static expression
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/InstMem.V3.vhd" into library work
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/GenericMax.vhd" into library work
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/Datamem.V4.vhd" into library work
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/Control.vhd" into library work
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/ALUControl.vhd" into library work
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/ALU.vhd" into library work
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/MainModule.vhd" into library work
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/MainModule.vhd" Line 78: Actual for formal port clr is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/MainModule.vhd" Line 79: Actual for formal port loadit is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/MainModule.vhd" Line 88: Actual for formal port loadit is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/MainModule.vhd" Line 92: Actual for formal port s is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/MainModule.vhd" Line 94: Actual for formal port i1 is neither a static name nor a globally static expression
+Parsing VHDL file "C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RobotTest.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package mypackage
+Compiling package std_logic_signed
+Compiling package textio
+Compiling package std_logic_textio
+Compiling architecture behavioral of entity reg [\reg(32)\]
+Compiling architecture behavioral of entity INSTRMEMORY [\INSTRMEMORY(64,32,32)\]
+Compiling architecture behavioral of entity Control [control_default]
+Compiling architecture behavioral of entity GenericMax [\GenericMax(4)\]
+Compiling architecture behavioral of entity ALUControl [alucontrol_default]
+Compiling architecture behavioral of entity GenericMax [\GenericMax(31)\]
+Compiling architecture behavioral of entity Mux2 [mux2_default]
+Compiling architecture behavioral of entity OneBitFullAdder [onebitfulladder_default]
+Compiling architecture muxarch of entity Mux4 [mux4_default]
+Compiling architecture behavioral of entity Alu1Bit [alu1bit_default]
+Compiling architecture behavioral of entity FirstAlu [firstalu_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity DATAMEMORY [\DATAMEMORY(64,32,32)\]
+Compiling architecture behavioral of entity Decoder [decoder_default]
+Compiling architecture behavioral of entity Mux [mux_default]
+Compiling architecture behavioral of entity RegisterFile [registerfile_default]
+Compiling architecture behavioral of entity MainModule [mainmodule_default]
+WARNING:HDLCompiler:1242 - "N:/P.58f/rtf/vhdl/src/ieee/std_logic_arith.vhd" Line 349: Warning: "There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es)."
+WARNING:HDLCompiler:1242 - "N:/P.58f/rtf/vhdl/src/ieee/std_logic_arith.vhd" Line 371: Warning: "There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es)."
+WARNING:HDLCompiler:1242 - "N:/P.58f/rtf/vhdl/src/ieee/std_logic_arith.vhd" Line 2479: Warning: "There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es)."
+Compiling architecture behavior of entity robottest
+Time Resolution for simulation is 1ps.
+Waiting for 8 sub-compilation(s) to finish...
+Compiled 43 VHDL Units
+Built simulation executable C:/Users/Khaled Said/Desktop/New folder (3)/CPU/RobotTest_isim_beh.exe
+Fuse Memory Usage: 36480 KB
+Fuse CPU Usage: 812 ms

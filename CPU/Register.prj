@@ -1,0 +1,7 @@
+vhdl work "OneBitFullAdder.vhd"
+vhdl work "mypackage.vhd"
+vhdl work "Mux4.vhd"
+vhdl work "Mux2.vhd"
+vhdl work "Alu1Bit.vhd"
+vhdl work "ALU.vhd"
+vhdl work "Register.vhd"
